@@ -1,6 +1,6 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
-#### Name : Shyam Naveen Raj
-#### Register No: 212221230099
+#### Name : A Joas Jay Authers
+#### Register No: 212221240019
 #### Date of experiment : 06/11/2022
 ## Aim: 
 To configure internal ADC for LPC2148 ARM 7 and write a code for displaying the values varying from 0v to 3.3v to its equivalent digital values 
