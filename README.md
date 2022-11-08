@@ -1,5 +1,5 @@
 # Exp-06-Configuration-of-ADC-for-converting-analog-to-digital-signals
-#### Name : A Joas Jay Authers
+#### Name : A Joans Jay Authers
 #### Register No: 212221240019
 #### Date of experiment : 06/11/2022
 ## Aim: 
